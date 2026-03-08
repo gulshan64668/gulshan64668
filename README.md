@@ -45,15 +45,9 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=gulshan64668&show_icons=true&count_private=true&theme=dark&hide_border=false" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gulshan64668&layout=compact&theme=dark&hide_border=false" width="40%" />
+  <img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/Top-Langs-View-0077B5?style=for-the-badge" />
 </p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=gulshan64668&theme=dark" width="90%" />
-</p>
-
-
 
 ---
 
