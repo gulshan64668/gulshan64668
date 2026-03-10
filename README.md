@@ -1,7 +1,4 @@
 ![Header](HEADER.png)
-
-
-
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0077B5&height=120&section=header&text=Welcome%20to%20My%20Portfolio&fontSize=30&animation=fadeIn&fontColor=ffffff"/>
 </p>
@@ -23,7 +20,19 @@
 - 🌍 Building projects and improving my **GitHub portfolio**
 
 ---
+# 📊 My GitHub Stats & Streaks
 
+<p align="center">
+
+<!-- Total Contributions (public + private) -->
+<img src="https://github-readme-stats.vercel.app/api?username=gulshan64668&show_icons=true&theme=tokyonight&count_private=true" />
+
+<br><br>
+
+<!-- GitHub Streak Stats (current + longest streak) -->
+<img src="https://streak-stats.demolab.com/?user=gulshan64668&theme=tokyonight&hide_border=false&date_format=M%20j%5B%2C%20Y%5D" />
+
+</p>
 ## 🛠️ Tech Stack
 
 <p align="left">
@@ -40,26 +49,32 @@
 
 </p>
 
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/Top-Langs-View-0077B5?style=for-the-badge" />
-</p>
-
----
 
 ## 🌐 Connect With Me
 
+<p align="center">
 
-### LinkedIn
-```
-www.linkedin.com/in/gulshan-khizer-0b1399390
-```
+<a href="https://www.linkedin.com/in/gulshan-khizer-0b1399390">
+<img src="https://skillicons.dev/icons?i=linkedin" height="55"/>
+</a>
+&nbsp;&nbsp;&nbsp;&nbsp;
 
-### Fiverr
-```
-https://www.fiverr.com/s/dDQXW1z
-```
+<a href="https://www.fiverr.com/s/dDQXW1z">
+<img src="https://cdn.simpleicons.org/fiverr/1DBF73" height="55"/>
+</a>
+&nbsp;&nbsp;&nbsp;&nbsp;
+
+<a href="https://pin.it/17PpA4TZ7">
+<img src="https://cdn.simpleicons.org/pinterest/E60023" height="55"/>
+</a>
+&nbsp;&nbsp;&nbsp;&nbsp;
+
+<a href="mailto:gulshan.khyzer@gmail.com">
+<img src="https://skillicons.dev/icons?i=gmail" height="55"/>
+</a>
+
+</p>
+
+<p align="center">
+<b>Connect</b> • <b>Hire Me</b> • <b>Follow</b> • <b>Email</b>
+</p>
