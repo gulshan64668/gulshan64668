@@ -20,35 +20,30 @@
 - 🌍 Building projects and improving my **GitHub portfolio**
 
 ---
-# 📊 My GitHub Stats & Streaks
+
+
+## 📊 My GitHub Stats & Streaks
 
 <p align="center">
-
-<!-- Total Contributions (public + private) -->
-<img src="https://github-readme-stats.vercel.app/api?username=gulshan64668&show_icons=true&theme=tokyonight&count_private=true" />
-
-<br><br>
-
-<!-- GitHub Streak Stats (current + longest streak) -->
-<img src="https://streak-stats.demolab.com/?user=gulshan64668&theme=tokyonight&hide_border=false&date_format=M%20j%5B%2C%20Y%5D" />
-
-</p>
-## 🛠️ Tech Stack
-
-<p align="left">
-
-<img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-<img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
-<img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
-<img src="https://img.shields.io/badge/MATLAB-FF6F00?style=for-the-badge&logo=Mathworks&logoColor=white"/>
-<img src="https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white"/>
-<img src="https://img.shields.io/badge/MS%20Word-2B579A?style=for-the-badge&logo=microsoftword&logoColor=white"/>
-
+  <!-- GitHub Stats Card -->
+  <img src="https://github-readme-stats.vercel.app/api?username=gulshan64668&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true" />
+  
+  <br><br>
+  
+  <!-- GitHub Streak Stats -->
+  <img src="https://streak-stats.demolab.com?user=gulshan64668&theme=tokyonight&hide_border=false&date_format=M%20j%5B%2C%20Y%5D&mode=weekly" />
 </p>
 
+### 🛠️ Technical Proficiency
+
+| Category | Technologies |
+|:--|:--|
+| **Languages** | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) ![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=cplusplus&logoColor=white) ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) ![MATLAB](https://img.shields.io/badge/-MATLAB-0076A8?style=flat-square&logo=mathworks&logoColor=white) ![Assembly](https://img.shields.io/badge/-Assembly-6E4C13?style=flat-square&logo=assemblyscript&logoColor=white) |
+| **Databases** | ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white) |
+| **Design Tools** | ![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat-square&logo=figma&logoColor=white) ![Canva](https://img.shields.io/badge/-Canva-00C4CC?style=flat-square&logo=canva&logoColor=white) |
+| **AI Platforms** | ![ChatGPT](https://img.shields.io/badge/-ChatGPT-10A37F?style=flat-square&logo=openai&logoColor=white) ![DeepSeek](https://img.shields.io/badge/-DeepSeek-4A6CF7?style=flat-square&logo=deepseek&logoColor=white) ![Hostinger](https://img.shields.io/badge/-Hostinger-512BD4?style=flat-square&logo=hostinger&logoColor=white) |
+| **CMS & Website** | ![WordPress](https://img.shields.io/badge/-WordPress-21759B?style=flat-square&logo=wordpress&logoColor=white) ![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat-square&logo=figma&logoColor=white) |
+| **Tools** | ![VS Code](https://img.shields.io/badge/-VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white) ![MS Word](https://img.shields.io/badge/-MS_Word-2B579A?style=flat-square&logo=microsoft-word&logoColor=white) |
 
 ## 🌐 Connect With Me
 
