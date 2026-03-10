@@ -25,10 +25,10 @@
 ## 📊 My GitHub Stats & Streaks
 
 <p align="center">
-  <!-- GitHub Stats Card -->
+  <!-- GitHub Stats Card
   <img src="https://github-readme-stats.vercel.app/api?username=gulshan64668&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true" />
   
-  <br><br>
+  <br><br> -->
   
   <!-- GitHub Streak Stats -->
   <img src="https://streak-stats.demolab.com?user=gulshan64668&theme=tokyonight&hide_border=false&date_format=M%20j%5B%2C%20Y%5D&mode=weekly" />
