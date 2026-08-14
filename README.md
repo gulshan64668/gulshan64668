@@ -12,7 +12,7 @@
 ---
 
 ## 👨‍💻 About Me
-
+- 🎨 LinkedIn Branding Expert**
 - 🎨 Aspiring **UI/UX Designer**
 - 💻 Learning **Python, C++, SQL**
 - 🧠 Interested in **AI Projects & Algorithms**
@@ -55,9 +55,7 @@
 </a>
 &nbsp;&nbsp;&nbsp;&nbsp;
 
-<a href="https://www.fiverr.com/s/dDQXW1z">
-<img src="https://cdn.simpleicons.org/fiverr/1DBF73" height="55"/>
-</a>
+
 &nbsp;&nbsp;&nbsp;&nbsp;
 
 <a href="https://pin.it/17PpA4TZ7">
