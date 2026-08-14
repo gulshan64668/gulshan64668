@@ -12,7 +12,9 @@
 ---
 
 ## 👨‍💻 About Me
-- 🎨 LinkedIn Branding Expert**
+
+- 🎨 LinkedIn **Branding Expert**
+- 🖌️ LinkedIn profile Revamps
 - 🎨 Aspiring **UI/UX Designer**
 - 💻 Learning **Python, C++, SQL**
 - 🧠 Interested in **AI Projects & Algorithms**
@@ -55,8 +57,6 @@
 </a>
 &nbsp;&nbsp;&nbsp;&nbsp;
 
-
-&nbsp;&nbsp;&nbsp;&nbsp;
 
 <a href="https://pin.it/17PpA4TZ7">
 <img src="https://cdn.simpleicons.org/pinterest/E60023" height="55"/>
